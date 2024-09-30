@@ -11,7 +11,7 @@ public class Main {
         SoccerPlayer player5 = new SoccerPlayer("Salah", 33, 200);
 
 
-        System.out.println(player1);
+        System.out.println(player1.getName());
         System.out.println(player2);
         System.out.println(player3);
         System.out.println(player4);
