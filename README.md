@@ -10,4 +10,8 @@ A simple Java program to model soccer players with attributes: name, age, team, 
 ## How to Run
 1. Clone the repo:
 
+https://github.com/JackMwisa/SoccerPlayer-exercise-in-Java.git
+
 2. Compile and run:
+
+the Main Class
